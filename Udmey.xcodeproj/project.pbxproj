@@ -15,6 +15,19 @@
 		5A434AE024A9DC7A00D85E51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A434ADE24A9DC7A00D85E51 /* LaunchScreen.storyboard */; };
 		5A434AEB24A9DC7A00D85E51 /* UdmeyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A434AEA24A9DC7A00D85E51 /* UdmeyTests.swift */; };
 		5A434AF624A9DC7A00D85E51 /* UdmeyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A434AF524A9DC7A00D85E51 /* UdmeyUITests.swift */; };
+		5A434B0424AA2ABE00D85E51 /* helloMetallica.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A434B0324AA2ABE00D85E51 /* helloMetallica.swift */; };
+		5A434B0624AA344F00D85E51 /* NavigationFirstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A434B0524AA344F00D85E51 /* NavigationFirstView.swift */; };
+		5A434B0824AA346300D85E51 /* NavigationSecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A434B0724AA346300D85E51 /* NavigationSecondView.swift */; };
+		5A611BF024AB29170033F773 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611BEF24AB29170033F773 /* ListView.swift */; };
+		5A611BF224AB2B740033F773 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611BF124AB2B740033F773 /* Model.swift */; };
+		5A611BF424AB2DC70033F773 /* ListSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611BF324AB2DC70033F773 /* ListSectionView.swift */; };
+		5A611BF824AB4C8A0033F773 /* TravelCheckModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611BF724AB4C8A0033F773 /* TravelCheckModel.swift */; };
+		5A611BFA24AB4E720033F773 /* TravelListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611BF924AB4E720033F773 /* TravelListView.swift */; };
+		5A611BFC24AB517C0033F773 /* TravelListDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611BFB24AB517C0033F773 /* TravelListDetailView.swift */; };
+		5A611BFE24AB68750033F773 /* TravelListDetailSeenBool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611BFD24AB68750033F773 /* TravelListDetailSeenBool.swift */; };
+		5A611C0024AB6DCD0033F773 /* SheetPopoverFirstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611BFF24AB6DCD0033F773 /* SheetPopoverFirstView.swift */; };
+		5A611C0224AB6DE90033F773 /* SheetPopoverSecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A611C0124AB6DE90033F773 /* SheetPopoverSecondView.swift */; };
+		5A611C0424AB7FAA0033F773 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A611C0324AB7FAA0033F773 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +62,19 @@
 		5A434AF124A9DC7A00D85E51 /* UdmeyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UdmeyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A434AF524A9DC7A00D85E51 /* UdmeyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UdmeyUITests.swift; sourceTree = "<group>"; };
 		5A434AF724A9DC7A00D85E51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A434B0324AA2ABE00D85E51 /* helloMetallica.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helloMetallica.swift; sourceTree = "<group>"; };
+		5A434B0524AA344F00D85E51 /* NavigationFirstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationFirstView.swift; sourceTree = "<group>"; };
+		5A434B0724AA346300D85E51 /* NavigationSecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSecondView.swift; sourceTree = "<group>"; };
+		5A611BEF24AB29170033F773 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		5A611BF124AB2B740033F773 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		5A611BF324AB2DC70033F773 /* ListSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSectionView.swift; sourceTree = "<group>"; };
+		5A611BF724AB4C8A0033F773 /* TravelCheckModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelCheckModel.swift; sourceTree = "<group>"; };
+		5A611BF924AB4E720033F773 /* TravelListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelListView.swift; sourceTree = "<group>"; };
+		5A611BFB24AB517C0033F773 /* TravelListDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelListDetailView.swift; sourceTree = "<group>"; };
+		5A611BFD24AB68750033F773 /* TravelListDetailSeenBool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelListDetailSeenBool.swift; sourceTree = "<group>"; };
+		5A611BFF24AB6DCD0033F773 /* SheetPopoverFirstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetPopoverFirstView.swift; sourceTree = "<group>"; };
+		5A611C0124AB6DE90033F773 /* SheetPopoverSecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetPopoverSecondView.swift; sourceTree = "<group>"; };
+		5A611C0324AB7FAA0033F773 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +125,26 @@
 		5A434AD224A9DC7900D85E51 /* Udmey */ = {
 			isa = PBXGroup;
 			children = (
+				5A434AE124A9DC7A00D85E51 /* Info.plist */,
+				5A434ADE24A9DC7A00D85E51 /* LaunchScreen.storyboard */,
 				5A434AD324A9DC7900D85E51 /* AppDelegate.swift */,
 				5A434AD524A9DC7900D85E51 /* SceneDelegate.swift */,
 				5A434AD724A9DC7900D85E51 /* ContentView.swift */,
+				5A434B0324AA2ABE00D85E51 /* helloMetallica.swift */,
+				5A434B0524AA344F00D85E51 /* NavigationFirstView.swift */,
+				5A434B0724AA346300D85E51 /* NavigationSecondView.swift */,
+				5A611BEF24AB29170033F773 /* ListView.swift */,
+				5A611BFD24AB68750033F773 /* TravelListDetailSeenBool.swift */,
+				5A611BF124AB2B740033F773 /* Model.swift */,
+				5A611BF324AB2DC70033F773 /* ListSectionView.swift */,
+				5A611BF724AB4C8A0033F773 /* TravelCheckModel.swift */,
+				5A611BF924AB4E720033F773 /* TravelListView.swift */,
+				5A611BFB24AB517C0033F773 /* TravelListDetailView.swift */,
+				5A611C0124AB6DE90033F773 /* SheetPopoverSecondView.swift */,
+				5A611BFF24AB6DCD0033F773 /* SheetPopoverFirstView.swift */,
 				5A434AD924A9DC7A00D85E51 /* Assets.xcassets */,
-				5A434ADE24A9DC7A00D85E51 /* LaunchScreen.storyboard */,
-				5A434AE124A9DC7A00D85E51 /* Info.plist */,
 				5A434ADB24A9DC7A00D85E51 /* Preview Content */,
+				5A611C0324AB7FAA0033F773 /* LaunchScreen.storyboard */,
 			);
 			path = Udmey;
 			sourceTree = "<group>";
@@ -241,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A434AE024A9DC7A00D85E51 /* LaunchScreen.storyboard in Resources */,
+				5A611C0424AB7FAA0033F773 /* LaunchScreen.storyboard in Resources */,
 				5A434ADD24A9DC7A00D85E51 /* Preview Assets.xcassets in Resources */,
 				5A434ADA24A9DC7A00D85E51 /* Assets.xcassets in Resources */,
 			);
@@ -267,9 +307,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A611BF824AB4C8A0033F773 /* TravelCheckModel.swift in Sources */,
 				5A434AD424A9DC7900D85E51 /* AppDelegate.swift in Sources */,
+				5A434B0624AA344F00D85E51 /* NavigationFirstView.swift in Sources */,
+				5A611BF424AB2DC70033F773 /* ListSectionView.swift in Sources */,
+				5A434B0824AA346300D85E51 /* NavigationSecondView.swift in Sources */,
+				5A611BF224AB2B740033F773 /* Model.swift in Sources */,
+				5A611BF024AB29170033F773 /* ListView.swift in Sources */,
+				5A611BFA24AB4E720033F773 /* TravelListView.swift in Sources */,
 				5A434AD624A9DC7900D85E51 /* SceneDelegate.swift in Sources */,
+				5A611C0024AB6DCD0033F773 /* SheetPopoverFirstView.swift in Sources */,
+				5A611BFE24AB68750033F773 /* TravelListDetailSeenBool.swift in Sources */,
+				5A611C0224AB6DE90033F773 /* SheetPopoverSecondView.swift in Sources */,
+				5A611BFC24AB517C0033F773 /* TravelListDetailView.swift in Sources */,
 				5A434AD824A9DC7900D85E51 /* ContentView.swift in Sources */,
+				5A434B0424AA2ABE00D85E51 /* helloMetallica.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -439,6 +491,7 @@
 				DEVELOPMENT_TEAM = F2846DBY9U;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Udmey/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -459,6 +512,7 @@
 				DEVELOPMENT_TEAM = F2846DBY9U;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Udmey/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

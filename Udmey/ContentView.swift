@@ -10,7 +10,18 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        NavigationView{
+            VStack{
+                NavigationLink(destination: NavigationFirstView()){
+                    Text("Click Me")
+                        .font(.largeTitle)
+                        .fontWeight(.semibold)
+                        .padding(.horizontal, 15)
+                        .background(Color("proBlue"))
+                        .foregroundColor(Color.white)
+                }
+                }.navigationBarTitle("Udmey")
+        }
     }
 }
 
